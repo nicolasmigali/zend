@@ -1,11 +1,11 @@
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.zend" version="1.0.0">
-  <name>zend</name>
-  <description>Hello World sample application that responds to the deviceready event.</description>
-  <author href="http://phonegap.com" email="support@phonegap.com">PhoneGap Team</author>
+  <name>Zend</name>
+  <description>Envíos instantaneos y seguros.</description>
+  <author href="https://www.zend.com" email="zend.help@gmail.com">Zend</author>
   <content src="index.html"/>
   <preference name="DisallowOverscroll" value="true"/>
   <preference name="android-minSdkVersion" value="14"/>
-  <!--
+<!--
   <plugin name="cordova-plugin-battery-status" source="npm" spec="~1.1.1"/>
   <plugin name="cordova-plugin-camera" source="npm" spec="~2.1.1"/>
   <plugin name="cordova-plugin-media-capture" source="npm" spec="~1.2.0"/>
