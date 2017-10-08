@@ -5,6 +5,10 @@
   <content src="index.html"/>
   <preference name="DisallowOverscroll" value="true"/>
   <preference name="android-minSdkVersion" value="14"/>
+<<<<<<< HEAD
+=======
+  <preference name="permissions" value="none"/>
+>>>>>>> c3b507f159454ec5ca16d56283d147580d986dd4
   <!--
   <plugin name="cordova-plugin-battery-status" source="npm" spec="~1.1.1"/>
   <plugin name="cordova-plugin-camera" source="npm" spec="~2.1.1"/>
@@ -26,7 +30,11 @@
   <plugin name="cordova-plugin-statusbar" source="npm" spec="~2.1.2"/>
   <plugin name="cordova-plugin-vibration" source="npm" spec="~2.1.0"/>
   <plugin name="cordova-plugin-whitelist" source="npm" spec="~1.2.1"/>
+<<<<<<< HEAD
 	-->
+=======
+  -->
+>>>>>>> c3b507f159454ec5ca16d56283d147580d986dd4
   <platform name="android">
     <icon src="www/res/icon/android/drawable-ldpi-icon.png" density="ldpi"/>
     <icon src="www/res/icon/android/drawable-mdpi-icon.png" density="mdpi"/>
